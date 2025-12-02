@@ -89,6 +89,8 @@ PROCEDURE - (LPF):
 
 <img width="547" height="720" alt="image" src="https://github.com/user-attachments/assets/279ddd84-8b76-4fb2-817a-532f14610229" />
 
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/54a1bf5b-5776-4932-aa43-441da272074f" />
+
 
 ---
 
@@ -164,6 +166,7 @@ PROCEDURE - ( HPF):
 
 <img width="535" height="799" alt="image" src="https://github.com/user-attachments/assets/67498113-9418-4144-bc0d-2984f03e466c" />
 
+<img width="1917" height="979" alt="image" src="https://github.com/user-attachments/assets/b4415db9-1004-498e-9194-1487a5b3dc73" />
 
 ---
 
@@ -240,6 +243,8 @@ PROCEDURE:BAND PASS FILTER
 <img width="630" height="807" alt="image" src="https://github.com/user-attachments/assets/df191445-7467-48ad-9209-3a302bbae657" />
 
 <img width="530" height="675" alt="image" src="https://github.com/user-attachments/assets/41d51083-733e-455e-8b08-ab7fb65cf042" />
+
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/72fed09a-1014-457f-b4a9-4e73dd33b1fc" />
 
 ---
 ##RESULT:
